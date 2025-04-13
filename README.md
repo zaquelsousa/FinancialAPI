@@ -23,9 +23,9 @@ A documentação completa estará disponível na pasta `/docs`.
 Nela serão abordados:
 
 1. [Especificação do Projeto](<docs/Especificação do Projeto.md>)
-2. [Metodologia](<docs/Especificação do Projeto.md>)
-3. [Arquitetura da Solução](<docs/Especificação do Projeto.md>)
-4. [Programação das Funcionalidades](<docs/Especificação do Projeto.md>)
-5. [Plano de Testes de Software](<docs/Especificação do Projeto.md>)
-6. [Registro de Testes de Software](<docs/Especificação do Projeto.md>)
-7. [Apresentação do Projeto](<docs/Especificação do Projeto.md>)
+2. [Metodologia](<docs/Metodologia.md>)
+3. [Arquitetura da Solução](<docs/Apresentação do Projeto.md>)
+4. [Programação das Funcionalidades](<docs/Programação das Funcionalidades.md>)
+5. [Plano de Testes de Software](<docs/Plano de Testes de Software.md>)
+6. [Registro de Testes de Software](<docs/Registro de Testes de Software.md>)
+7. [Apresentação do Projeto](<docs/Apresentação do Projeto.md>)
